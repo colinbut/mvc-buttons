@@ -9,7 +9,8 @@
 *.project
 *.classpath
 
-*/target/* 
+.settings/*
+target/* 
 
 # Packages #
 ############
