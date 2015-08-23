@@ -1,3 +1,8 @@
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2008 Colin But. All rights reserved. 
+ * |-------------------------------------------------
+ */
 package com.mycompany.mvc.examples.button.example2;
 
 import java.awt.event.ActionEvent;
@@ -17,10 +22,10 @@ public class ButtonListener implements ActionListener {
 	/**
 	 * Constructor
 	 * 
-	 * @param l the view
+	 * @param listener the view
 	 */
-	public ButtonListener(ListenerDemo l) {
-		guiReference = l;
+	public ButtonListener(ListenerDemo listener) {
+		guiReference = listener;
 	}
 
 	/**

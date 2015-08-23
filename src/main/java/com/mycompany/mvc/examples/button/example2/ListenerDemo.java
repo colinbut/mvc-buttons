@@ -1,10 +1,13 @@
+/*
+ * |-------------------------------------------------
+ * | Copyright © 2008 Colin But. All rights reserved. 
+ * |-------------------------------------------------
+ */
 package com.mycompany.mvc.examples.button.example2;
-
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
 
 /**
  * Demonstrate different ways of attaching listeners to buttons
